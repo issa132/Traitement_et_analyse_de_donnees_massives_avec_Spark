@@ -1,0 +1,2 @@
+# Traitement_et_analyse_de_donnees_massives_avec_Spark
+Le but du projet est la mise en application de nos connaissances tirés du livre ''les concepts clés du livre "Data Engineering with Databricks Cookbook" dans le but de créer un pipeline qui transforme nos données brutes en un data warehouse analytique prêt pour le machine learning et l'analyse analytique afin d'aider dans la prise de décision. 
